@@ -1,0 +1,68 @@
+body
+{
+
+	background-color: grey;
+
+
+
+	margin: 0px;
+	padding: 0px;
+	overflow: scroll;
+}
+
+
+
+
+#box
+{
+
+
+
+
+
+	
+	width: 65%;
+	min-height: 550px;
+	background-color: white;
+	float: left;
+	/*margin-right: 5%;*/
+	margin-left: 10%;
+	-moz-box-shadow: 5px 5px 5px 5px #777777;
+	-webkit-box-shadow: 5px 5px 5px 5px #777777;
+	-ms-box-shadow: 5px 5px 5px 5px #777777;
+	
+	-o-box-shadow: 5px 5px 5px 5px #777777;
+
+}
+
+
+#text{
+
+width: 65%;
+float: left;
+
+}
+
+#side {
+	
+	margin-top: 40px;
+	/*margin-left: 40px;*/
+	width: 230px;
+	background: white;
+	float: right;
+	padding:20px;
+	text-align:center;
+	width: 30%;
+		
+	
+}
+
+
+
+
+.panel-group
+{
+
+width:65%;
+
+}
